@@ -1,0 +1,4 @@
+cat > mise.toml << 'EOF'
+[tools]
+python = "3.11.9"
+EOF
